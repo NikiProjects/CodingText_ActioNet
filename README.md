@@ -1,3 +1,3 @@
-# CodingTest_ActioNet
-This repository contains my solutions for all 3 coding assignments. 
+# Classes that implement the interface Shape calculate the area and perimeter of a specific shape. 
+
 
